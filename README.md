@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+This commit updates the readme.md file to reflect new information
